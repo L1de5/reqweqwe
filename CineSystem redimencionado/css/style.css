@@ -135,8 +135,259 @@
     font-weight: bold;
     text-align: center;
     font-size: 0.9em;
-    width: 15%;
+    width: 19%;
     height: 45px;
     background-color: #25739e;
+  }
+  .preco{
+    margin-top: -53px;
+    margin-left: 19.3%;
+    padding-top: 8px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 0.9em;
+    width: 19%;
+    height: 45px;
+    background-color:#939598 ;
+  }
+  .preco p{
+    font-weight: bold;
+    color: white;
+    margin-top: 9px;
+  }
+  .programations{
+    margin-top: -53px;
+    margin-left: 38.6%;
+    padding-top: 8px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 0.9em;
+    width: 19%;
+    height: 45px;
+    background-color:#939598 ;
+  }
+  .programations p{
+    font-weight: bold;
+    color: white;
+    margin-top: 9px;
+  }
+  .location{
+    margin-top: -53px;
+    margin-left: 57.9%;
+    padding-top: 8px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 0.9em;
+    width: 19%;
+    height: 45px;
+    background-color:#939598 ;
+  }
+  .location p{
+    font-weight: bold;
+    color: white;
+    margin-top: 9px;
+  }
+  .calendario{
+    display: inline-block;
+    position: relative;
+    left: 78%;
+    top: -35px;
+  }
+  .calendar{
+    display:inline;
+  }
+  .calendario p {
+    display: inline;
+    font-weight: bold;
+    font-size: 0.8em;
+    color: #595959;
+  }
+  .calendario span{
+    font-size: 0.8em;
+    color: #595959;
+    display: inline;
+  }
+  .corra{
+    position: relative;
+    top: -26px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 20px;
+  }
+  .seta{
+    display: inline;
+  }
+  .film{
+    width: 22%;
+    position: relative;
+    left: 3%;
+    top: -20px;
+    font-size: 1em;
+    font-weight: 700;
+    color: #595959;
+  }
+  .tema{
+    font-size: 0.8em;
+    display: inline;
+    color:#595959;
+    position: relative;
+    left: 30%;
+    top: -42px;
+  }
+  .leg, .dub{
+    font-size: 0.8em;
+    display: inline;
+    color:#595959;
+  }
+  .leg{
+    position: relative;
+    left: 37.5%;
+    top:-53px;
+  }
+  .dub{
+    position: relative;
+    left:30%;
+    top: -33px;
+  }
+  .sala1, .sala2{
+    font-size: 0.8em;
+    display: inline;
+    color:#595959;
+  }
+  .salinha, .salinha1 {
+    font-weight: bold;
+  }
+  .sala1{
+    position: relative;
+    left: 43%;
+    top:-51px;
+  }
+  .sala2{
+    position: relative;
+    top: -30px;
+    left: 33%;
+  }
+  .guardian{
+    position: relative;
+    top: -160px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 45px;
+  }
+  .classic{
+    width: 6%;
+    height: 60px;
+    background-color: #f79136;
+    margin-left: 90.3%;
+    position: relative;
+    top: -163px;
+  }
+  .classic img{
+    position: relative;
+    top: 25%;
+    left: 25%;
+  }
+  .comprar{
+    width: 6%;
+    height: 60px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -103px;
+  }
+  .comprar img{
+    position: relative;
+    top: 25%;
+    left: 25%;
+  }
+  .classic1{
+    width: 6%;
+    height: 85px;
+    background-color: #e7c210;
+    margin-left: 90.3%;
+    position: relative;
+    top: -341px;
+  }
+  .classic1 img{
+    position: relative;
+    top: 30%;
+    left: 27%;
+  }
+  .comprar1{
+    width: 6%;
+    height: 85px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -256px;
+  }
+  .comprar1 img{
+    position: relative;
+    top: 30%;
+    left: 25%;
+  }
+  .pirate{
+    position: relative;
+    top: -340px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 45px;
+  }
+  .classic2{
+    width: 6%;
+    height: 85px;
+    background-color: #e7c210;
+    margin-left: 90.3%;
+    position: relative;
+    top: -521px;
+  }
+  .classic2 img{
+    position: relative;
+    top: 30%;
+    left: 27%;
+  }
+  .comprar2{
+    width: 6%;
+    height: 85px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -436px;
+  }
+  .comprar2 img{
+    position: relative;
+    top: 30%;
+    left: 25%;
+  }
+  .pirate1{
+    position: relative;
+    top: -520px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 45px;
+  }
+  .td{
+    position: relative;
+    left:-2%;
+  }
+  .dolby{
+    position: relative;
+    top:-25px;
+    left: -5%;
+  }
+  .cine{
+    position: relative;
+    left: 7%;
   }
 }
